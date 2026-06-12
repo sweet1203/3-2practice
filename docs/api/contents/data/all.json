@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-06-12T00:38:05.010818Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-06-12T00:38:05.010818Z",
+      "mimetype": "text/csv",
+      "name": "penguins.csv",
+      "path": "data/penguins.csv",
+      "size": 15010,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-06-12T00:39:41.447644Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-06-12T00:39:41.447708Z",
+  "mimetype": null,
+  "name": "data",
+  "path": "data",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
